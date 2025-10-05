@@ -1,2 +1,3 @@
-# phishing_using_ML
-. This project focuses on developing a phishing URL detection model using traditional Machine Learning techniques. The model extracts handcrafted URL and domain-based features from websites and classifies them as legitimate or phishing using algorithms such as Decision Tree, Random Forest, Support Vector Machine, and Logistic Regression. 
+# Detection of Phishing URLs using Machine Learning
+
+Phishing attacks are one of the most common forms of cyber threats aimed at stealing users’ personal and financial information. This project focuses on developing a phishing URL detection model using traditional Machine Learning techniques. The model extracts handcrafted URL and domain-based features from websites and classifies them as legitimate or phishing using algorithms such as Decision Tree, Random Forest, Support Vector Machine, and Logistic Regression. The proposed approach enhances feature selection and class balancing to improve accuracy and interpretability. The experimental results demonstrate the effectiveness of the Random Forest model with high accuracy and clear feature importance insights
